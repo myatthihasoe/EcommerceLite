@@ -1,7 +1,8 @@
 # EcommerceLite
 FinalYearProject
 
-#Laravel + Vue.js (Inertia.js) Setup
+Laravel + Vue.js (Inertia.js) Setup
+
 Ensure you have the following installed on your system:
 
 PHP 8.x
